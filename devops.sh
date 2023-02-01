@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Update the package repository
 sudo apt-get update
